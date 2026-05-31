@@ -12520,3 +12520,21 @@ append:input:X:to:Y:in:Z
 command:when X is submitted on Y in Z go to W
 navigate:check:X:in:Y:on:Z:to:W
 ---
+command:register X as Y
+register:domain:X:as:Y
+---
+command:create identity for X
+create:identity:X
+---
+command:set name as X for Y
+set:name:X:for:Y
+---
+command:set location as X for Y
+set:location:X:for:Y
+---
+command:set status as X for Y
+set:status:X:for:Y
+---
+command:verify X
+verify:identity:X
+---
