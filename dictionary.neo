@@ -49,3 +49,15 @@ verify:identity:X
 command:register nation X
 create:folder:666/nations/X
 ---
+command:send X credits to Y from Z
+send:credits:X:to:Y:from:Z
+---
+command:check credits for X
+check:credits:X
+---
+command:add X credits to Y
+add:credits:X:to:Y
+---
+command:set credits as X for Y
+set:credits:X:for:Y
+---
